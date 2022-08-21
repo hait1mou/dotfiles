@@ -1,0 +1,10 @@
+set	number
+set	relativenumber
+syntax	on
+set	wrap
+set	linebreak
+set	showmatch
+set	tabstop=4
+set	expandtab
+set	softtabstop=4
+colorscheme slate

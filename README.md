@@ -1,1 +1,2 @@
-# dot-files
+# . Files
+Vim &&, zsh configuration files.
