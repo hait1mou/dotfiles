@@ -17,11 +17,11 @@ source  $ZSH/oh-my-zsh.sh
 alias   opn="xdg-open"
 alias	nf="neofetch"
 # Remove a package and its dependencies
-alias	r="sudo pacman -Rsu"
+alias	yr="yay -Rsu"
 # Update and install packages
 alias	y="yay"	
 # List installed packages
-alias	q="sudo pacman -Qe"
+alias	yq="yay -Qe"
 alias	rr="reboot"
 alias	ss="shutdown -h now"
 
