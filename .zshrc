@@ -14,6 +14,7 @@ source  $ZSH/oh-my-zsh.sh
 
 # --------- Aliases --------- #
 
+alias	vim="nvim"
 alias   opn="xdg-open"
 alias	nf="neofetch"
 # Remove a package and its dependencies
