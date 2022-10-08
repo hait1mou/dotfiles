@@ -23,7 +23,7 @@ alias	yr="yay -Rsu"
 alias	y="yay"	
 # List installed packages
 alias	yq="yay -Qe"
-alias	rr="reboot"
-alias	ss="shutdown -h now"
+alias	srb="reboot"
+alias	ssd="shutdown -h now"
 
 # --------- End ------------- #
