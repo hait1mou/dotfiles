@@ -15,18 +15,13 @@ plugins=(git)
 
 source  $ZSH/oh-my-zsh.sh
 
-# --------- Aliases --------- #
-
+# Aliases
 alias	vim="nvim"
 alias   opn="xdg-open"
 alias	nf="neofetch"
 # Remove a package and its dependencies
-alias	yr="yay -Rsu"
-# Update and install packages
-alias	y="yay"	
+alias	prd="sudo pacman -Rsu"
 # List installed packages
-alias	yq="yay -Qe"
+alias	pl="sudo pacman -Qe"
 alias	srb="reboot"
 alias	ssd="shutdown -h now"
-
-# --------- End ------------- #
